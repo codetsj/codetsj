@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @codetsj
 - 👀 I’m interested in Linux&Programming
 - 🌱 I’m currently learning CS
-- 📫 reach me at Instagram @i.artboy
 
 <!---
 codetsj/codetsj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
