@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @codetsj
 - 👀 I’m interested in Linux&Programming
-- 🌱 I’m currently learning CS
+- 🌱 I’m currently Ricing dwm
 - 🐧 Using Arch BTW
 
 
